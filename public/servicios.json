@@ -1,0 +1,8 @@
+[
+  { "id": 1, "nombre": "Corte de adulto", "precio": 500 },
+  { "id": 2, "nombre": "Corte de niños", "precio": 400 },
+  { "id": 3, "nombre": "Cerquillos", "precio": 300 },
+  { "id": 4, "nombre": "Facial", "precio": 200 },
+  { "id": 5, "nombre": "Tinte", "precio": 200 },
+  { "id": 6, "nombre": "Cejas", "precio": 100 }
+]
